@@ -20,3 +20,5 @@ To run locally:
 
 Always make the markdown extension (.md) the last extension on the file name.
 Otherwise creating the terminal HTML will be broken.
+
+#I am adding this awesome comment to the bottom of the readme
